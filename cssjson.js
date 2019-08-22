@@ -296,8 +296,8 @@ var CSSJSON = new function () {
 
 };
 
-if (typeof module === 'object') {
+// if (typeof module === 'object') {
     module.exports = CSSJSON;
-}
+// }
 
-export default CSSJON;
+// export default CSSJON;
